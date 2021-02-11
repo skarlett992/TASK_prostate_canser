@@ -1,5 +1,4 @@
 # TASK_prostate_canser
-TESTOVOE_face_mask
 
 Задача заключается в определении стадии рака простаты по цифровой патологии биопсии.
 По ссылке https://www.kaggle.com/c/prostate-cancer-grade-assessment доступны материалы:
